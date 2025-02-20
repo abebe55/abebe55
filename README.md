@@ -3,7 +3,7 @@
 <h3 align="center">A Software Engineering Student from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sura4133&label=Profile%20views&color=0e75b6&style=flat" alt="abebe55" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abebe55&label=Profile%20views&color=0e75b6&style=flat" alt="abebe55" /> </p>
 
 - 🌱 I’m currently learning react
 
@@ -30,12 +30,12 @@
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   
   <!-- Frontend -->
-  <a href="https://php.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://php.org/" target="_blank"><img src="https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=61DAFB"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
   
   <!-- Backend -->
-  <a href="https://C++.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+  <a href="https://C++.org" target="_blank"><img src="https://img.shields.io/badge/C++-339933?style=for-the-badge&logo=C++&logoColor=white"/></a>
   
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
@@ -44,7 +44,7 @@
 
 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surafielbeyene41&show_icons=true&locale=en&layout=compact&theme=radical" alt="abebe55" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abebe55&show_icons=true&locale=en&layout=compact&theme=radical" alt="abebe55" />
   <br/><br/>
   <img src="" alt="abebe55" />
 </p>
