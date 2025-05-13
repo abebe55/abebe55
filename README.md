@@ -14,7 +14,8 @@
 - 📞 Direct call +251 953 816 705
 
 - ⚡ Fun fact I'm funny 😄
-
+# my projects 
+- https://github.com/abebe55/Job_portal_androidApp_firebase.git
 - 🌐 My Portfolio: [Visit my portfolio](https://abebe-portfolio.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
