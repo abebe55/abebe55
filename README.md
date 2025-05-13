@@ -1,13 +1,13 @@
-![MasterHead]
+[MasterHead]
 <h1 align="center">Hi 👋, I'm Abebe</h1>
 <h3 align="center">A Software Engineering Student from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abebe55&label=Profile%20views&color=0e75b6&style=flat" alt="abebe55" /> </p>
 
-- 🌱 I’m currently learning CyberSecurity,  react,  node.js
+- 🌱 I’m currently learning react,  node.js, cyberSecurity 
 
-- 💬 Ask me about Android, java, Python, javaScript 
+- 💬 Ask me about Android,  java, Python, javaScript, and related
 
 - 📫 How to reach me abebemarye5360@gmail.com
 
@@ -15,10 +15,10 @@
 
 - ⚡ Fun fact I'm funny 😄
 # my projects 
-- https://github.com/abebe55/Job_portal_androidApp_firebase.git
--https://github.com/abebe55/newappli.git
-- https://github.com/abebe55/JaavFxPrjoect.git
-- https://github.com/abebe55/Calculator_RMI_-_web.git
+.[jop portal app](https://github.com/abebe55/Job_portal_androidApp_firebase.git)
+[Grade system](https://github.com/abebe55/newappli.git)
+  [solar system, traffic biliard, ...](https://github.com/abebe55/JaavFxPrjoect.git)
+  [Calculator](https://github.com/abebe55/Calculator_RMI_-_web.git)
 - 🌐 My Portfolio: [Visit my portfolio](https://abebe-portfolio.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
