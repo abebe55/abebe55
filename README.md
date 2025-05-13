@@ -1,4 +1,4 @@
-[MasterHead]
+
 <h1 align="center">Hi 👋, I'm Abebe</h1>
 <h3 align="center">A Software Engineering Student from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,10 +15,10 @@
 
 - ⚡ Fun fact I'm funny 😄
 # my projects 
-.[jop portal app](https://github.com/abebe55/Job_portal_androidApp_firebase.git)
-[Grade system](https://github.com/abebe55/newappli.git)
-  [solar system, traffic biliard, ...](https://github.com/abebe55/JaavFxPrjoect.git)
-  [Calculator](https://github.com/abebe55/Calculator_RMI_-_web.git)
+### [jop portal app](https://github.com/abebe55/Job_portal_androidApp_firebase.git)
+### [Grade system](https://github.com/abebe55/newappli.git)
+ ### [solar system, traffic biliard, ...](https://github.com/abebe55/JaavFxPrjoect.git)
+ ## [Calculator](https://github.com/abebe55/Calculator_RMI_-_web.git)...
 - 🌐 My Portfolio: [Visit my portfolio](https://abebe-portfolio.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
