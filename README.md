@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abebe55&label=Profile%20views&color=0e75b6&style=flat" alt="abebe55" /> </p>
 
-- 🌱 I’m currently learning react,  node.js, cyberSecurity 
+- 🌱 I’m currently learning cyberSecurity 
 
 - 💬 Ask me about Android,  java, Python, javaScript, and related
 
