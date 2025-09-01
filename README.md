@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Abebe</h1>
+<h1 align="center">Hi  I'm Abebe</h1>
 <h3 align="center">A Software Engineering Student from Ethiopia</h3>
 
 
-- 🌱 I’m currently learning cyberSecurity 
+-  I’m currently learning cyberSecurity 
 
   
 
