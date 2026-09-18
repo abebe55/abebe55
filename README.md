@@ -18,7 +18,7 @@ Software Engineer | Full-Stack & Mobile Developer | Security Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Software Engineering graduate/student from Ethiopia focused on building
 scalable web and mobile applications.
@@ -27,17 +27,17 @@ I enjoy working across the full development lifecycle — from designing
 interfaces and APIs to databases, authentication, real-time communication,
 deployment, and security.
 
-- 🔭 Currently building and improving full-stack applications
-- 🌱 Learning more about Cybersecurity, secure software development, and system design
-- 💻 Interested in Full-Stack Development, Backend Engineering, Mobile Development, and Cybersecurity
-- 🧩 Experienced with REST APIs, authentication, databases, real-time systems, and cloud deployment
-- 🚀 I enjoy turning ideas into working software
-- 📍 Based in Ethiopia
-- 📫 Reach me at **abebemarye536@gmail.com**
+-  Currently building and improving full-stack applications
+-  Learning more about Cybersecurity, secure software development, and system design
+-  Interested in Full-Stack Development, Backend Engineering, Mobile Development, and Cybersecurity
+-  Experienced with REST APIs, authentication, databases, real-time systems, and cloud deployment
+-  I enjoy turning ideas into working software
+-  Based in Ethiopia
+-  Reach me at **abebemarye536@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -82,9 +82,9 @@ deployment, and security.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🚗 Ride System
+###  Ride System
 
 A full-stack ride management ecosystem with passenger and driver mobile
 applications and an administrative dashboard.
@@ -101,11 +101,11 @@ Flutter • NestJS • PostgreSQL • PostGIS • Redis • Socket.IO • REST A
 - Real-time chat and notifications
 - Administrative analytics
 
-🔗 [View Repository](https://github.com/abebe55/rideSystem)
+🔗 [View Repository](https://github.com/abebe55/rideSystem) /private
 
 ---
 
-### 🎵 Music Management System
+###  Music Management System
 
 A full-stack music management application built with the MERN ecosystem.
 
@@ -125,7 +125,7 @@ React • TypeScript • Redux Toolkit • Redux Saga • Express • MongoDB �
 
 ---
 
-### 💼 Job Portal Application
+###  Job Portal Application
 
 A job portal system connecting job seekers and employers.
 
@@ -140,11 +140,11 @@ React • React Native • Django • MongoDB • Firebase
 - Mobile application
 - Employer/job management
 
-🔗 [View Repository](https://github.com/abebe55/Job_portal_androidApp)
+🔗 [View Repository](https://github.com/abebe55/Job_portal_androidApp) /private
 
 ---
 
-### 🛡️ Web Vulnerability Scanner
+###  Web Vulnerability Scanner
 
 A security-focused project for identifying potential vulnerabilities in web
 applications and generating security reports.
@@ -158,11 +158,11 @@ Python • FastAPI • Next.js • Firebase
 - Security reporting
 - Backend API development
 
-🔗 [View Repository](https://github.com/abebe55/vulnerabilityScanner)
+🔗 [View Repository](https://github.com/abebe55/vulnerabilityScanner) /private
 
 ---
 
-### 🌍 Tourism Information Management System
+###  Tourism Information Management System
 
 A web-based tourism information management platform designed to organize
 tourism destinations and related information.
@@ -172,16 +172,7 @@ Next.js • Node.js • TypeScript • MySQL • Supabase
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abebe55&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abebe55&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
-## 🎯 Current Focus
+##  Current Focus
 
 ```text
 Full-Stack Development
